@@ -1,0 +1,14 @@
+{
+  "name": "polymer-starter-kit",
+  "description": "",
+  "main": "",
+  "authors": [
+    "riccardo <riccardo.amadio1@gmail.com>"
+  ],
+  "license": "BSD-3-Clause",
+  "homepage": "",
+  "dependencies": {
+    "polymer": "^1.7.1",
+    "mobiscroll": "3.0.0"
+  }
+}
